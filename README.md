@@ -10,6 +10,6 @@ This terraform config is to run on local environment because it's adding a SSH r
 
 TODO :
 
-- create SSH config
+- create SSH server config file
 - use terraform provisionner to deploy SSH server configuration
 - use Ansible to deploy SSH server configuration
